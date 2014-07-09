@@ -1,4 +1,4 @@
-C---Programming-Tutorial-52---Constant-Objects
+C++ Programming Tutorial 52 - Constant Objects
 ==============================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/uCCrtnSTdy8
